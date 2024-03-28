@@ -1,0 +1,2 @@
+package kotlinPackage.lec12
+
