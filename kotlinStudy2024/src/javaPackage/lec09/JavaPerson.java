@@ -17,6 +17,11 @@ public class JavaPerson {
     this(name, 1);
   }
 
+  public JavaPerson() {
+    this.name = "노사람";
+    this.age = 1;
+  }
+
   public String getName() {
     return name;
   }
