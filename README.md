@@ -1,3 +1,1 @@
-https://kyjtheyj.notion.site/Kotlin-eda0a945093a407cabc94cfd9c63112f
-
-- 복습 중
+https://kyjtheyj.notion.site/Devlog-Lifelog-3732ab3984f94719a40968c7011d14e7
